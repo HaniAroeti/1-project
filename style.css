@@ -1,0 +1,42 @@
+p {
+    color: blue;
+}
+.navBar {
+    direction: right;
+    float: right;
+    display: inline;
+ } 
+ img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 20spx;
+    color: red;
+    border: 2px;
+
+}
+
+#list {
+    background-color: red;
+    display:flex;
+    justify-content:space-around;
+
+}
+a {
+    color: white; 
+    text-decoration:none
+
+}
+.navbar_{
+    color: black;
+    margin-right: 30px;
+}
+#lol{
+    display: flex;
+    justify-content: end;    
+}
